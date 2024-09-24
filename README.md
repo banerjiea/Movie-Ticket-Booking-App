@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a basic movie ticket booking app (add to cart) made with MERN. Created four collections in the database for storing the data of users, admin, shows and bookings.  
+This is a basic movie ticket booking app made with MERN. Created four collections in the database for storing the data of users, admin, shows and bookings.  
 By running this app user can see the different movie cards, book the movie with suitable time, cancel anytime and admin can manage the movie items.
 Topics covered by building this app -
 
